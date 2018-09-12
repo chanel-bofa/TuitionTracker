@@ -1,11 +1,10 @@
 
-//TuitionTracker API key: AIzaSyABcrN8GxdlyIopo1bF2oFSdo0ynKBiyBY
 /*
 References: 
 Stopwatch: https://jsfiddle.net/Daniel_Hug/pvk6p/
 */
 $(function(){
-	var mykey = '<AIzaSyABcrN8GxdlyIopo1bF2oFSdo0ynKBiyBY>'; 
+	var mykey = '<MYKEY>'; 
 	var calendarid = '<5se0j78hco4a3r2tuu9hcv6228@group.calendar.google.com>'; 
 	var hasClass = true; //change later
 	seconds = 0; 
